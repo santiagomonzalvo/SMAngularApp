@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\angularapp1.client",
+    "\\angularapp1.client\\src",
+    "\\angularapp1.client\\src\\app",
+    "\\AngularApp1.Server",
+    "\\AngularApp1.Server\\Controllers",
+    "\\AngularApp1.Server\\DataAccess",
+    "\\AngularApp1.Server\\Migrations",
+    "\\AngularApp1.Server\\Models"
+  ],
+  "SelectedNode": "\\AngularApp1.Server\\Controllers\\EmpleadoController.cs",
+  "PreviewInSolutionExplorer": false
+}

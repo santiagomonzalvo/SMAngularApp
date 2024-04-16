@@ -1,0 +1,11 @@
+<h1 id="tableLabel">Angular Web</h1>
+
+<p>7) mensajes informativos en el cliente requeridos desde el servidor (por ejemplo utilizando JQuery, Ajax, JavaScript, Bootstrap).</p>
+
+
+
+<div *ngIf="message" class="alert alert-info" role="alert">
+  {{ message }}
+</div>
+
+<button (click)="getServerMessages()" class="btn btn-primary">Obtener Mensaje del Servidor</button>

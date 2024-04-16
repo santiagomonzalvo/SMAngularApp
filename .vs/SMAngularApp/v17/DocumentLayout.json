@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\migrations\\20240412014010_nombredelamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\migrations\\20240412014010_nombredelamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\dist\\angularapp1.client\\browser\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\styles-dz6ubgxd.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\dist\\angularapp1.client\\browser\\styles-dz6ubgxd.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\main-vvot46r4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\dist\\angularapp1.client\\browser\\main-vvot46r4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\message.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\message.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\message.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\message.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\angularapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angularapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E05BA477-0C7C-4CA7-8950-EAF5DC43C52A}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\angularapp1.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\angularapp1.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\t21543\\desktop\\san\\sm_app\\angularapp1\\angularapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{120FCEE2-49A4-4E54-A169-9DD3D7C81ADE}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "angularapp1.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T13:21:28.184Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "message.service.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\message.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\message.service.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\message.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\message.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T20:56:27.649Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Usuario.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:52:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240412014010_NombreDeLaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Migrations\\20240412014010_NombreDeLaMigracion.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Migrations\\20240412014010_NombreDeLaMigracion.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Migrations\\20240412014010_NombreDeLaMigracion.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Migrations\\20240412014010_NombreDeLaMigracion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:42:18.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "AngularApp1.Server\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:25:42.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:14:27.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Empleado.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:16:00.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Persona.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:50:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:27:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T01:54:26.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Models\\Cliente.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:52:39.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:43:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-12T20:56:34.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T21:41:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T21:41:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main-VVOT46R4.js",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\main-VVOT46R4.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\dist\\angularapp1.client\\browser\\main-VVOT46R4.js",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\main-VVOT46R4.js",
+              "RelativeToolTip": "angularapp1.client\\dist\\angularapp1.client\\browser\\main-VVOT46R4.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T21:44:23.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styles-DZ6UBGXD.css",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\styles-DZ6UBGXD.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\dist\\angularapp1.client\\browser\\styles-DZ6UBGXD.css",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\styles-DZ6UBGXD.css",
+              "RelativeToolTip": "angularapp1.client\\dist\\angularapp1.client\\browser\\styles-DZ6UBGXD.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T21:44:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\index.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\dist\\angularapp1.client\\browser\\index.html",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\dist\\angularapp1.client\\browser\\index.html",
+              "RelativeToolTip": "angularapp1.client\\dist\\angularapp1.client\\browser\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-12T21:44:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T21:41:28.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T20:56:32.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "message.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\message.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\message.service.spec.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\message.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\message.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T20:56:22.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T16:47:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALYVAAAAAAAAAAAvwNAVAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-12T02:48:10.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "angularapp1.client.esproj",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+              "RelativeDocumentMoniker": "angularapp1.client\\angularapp1.client.esproj",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+              "RelativeToolTip": "angularapp1.client\\angularapp1.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-12T01:38:22.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AngularApp1.Server.http",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.http",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\AngularApp1.Server.http",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.http",
+              "RelativeToolTip": "AngularApp1.Server\\AngularApp1.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-12T00:10:28.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\karma.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\karma.conf.js",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\karma.conf.js",
+              "RelativeToolTip": "angularapp1.client\\karma.conf.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T00:09:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\aspnetcore-https.js",
+              "RelativeToolTip": "angularapp1.client\\aspnetcore-https.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T00:09:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeToolTip": "angularapp1.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T00:09:18.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-12T00:09:14.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\angular.json",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeToolTip": "angularapp1.client\\angular.json",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T00:05:01.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\README.md",
+              "RelativeDocumentMoniker": "angularapp1.client\\README.md",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\README.md",
+              "RelativeToolTip": "angularapp1.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-11T23:57:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\.vscode\\launch.json",
+              "RelativeToolTip": "angularapp1.client\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T23:57:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\AngularApp1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T00:51:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\T21543\\Desktop\\San\\SM_App\\AngularApp1\\angularapp1.client\\tsconfig.json",
+              "RelativeToolTip": "angularapp1.client\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T23:52:37.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
